@@ -1,10 +1,10 @@
 texto=input("Tu texto: ")
 if texto== texto.upper():
-    abc="juana joselinne tellez"
+    abc="maria jose"
 
 else:
-    abc="juana jsoelinne z"
-k=int(input("yoss 2d"))
+    abc="maria jose"
+k=int(input("maria jose 2d"))
 cifrad=""
 for c in texto:
     if c in abc:
